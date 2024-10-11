@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|c:\\users\\namdx\\desktop\\\u0111\u1ED3 \u00E1n tn\\do_an\\baitaplon\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\baitaplon\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\baitaplon\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\baitaplon\\areas\\admin\\views\\hoadon\\donggoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\areas\\admin\\views\\hoadon\\donggoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\baitaplon\\views\\cart\\paymentmomo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\views\\cart\\paymentmomo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\baitaplon\\momo api\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\momo api\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\baitaplon\\momo api\\momoinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\momo api\\momoinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\baitaplon\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\BaiTapLon\\Views\\AboutUs\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\AboutUs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\BaiTapLon\\Views\\AboutUs\\Index.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\AboutUs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAADcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T15:20:24.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\BaiTapLon\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\BaiTapLon\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T15:15:50.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\BaiTapLon\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\BaiTapLon\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AgIAAMgBAAAAAAAAAAAAAOEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T15:12:07.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DongGoi.cshtml",
+              "DocumentMoniker": "C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\HoaDon\\DongGoi.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Views\\HoaDon\\DongGoi.cshtml",
+              "ToolTip": "C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\HoaDon\\DongGoi.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Views\\HoaDon\\DongGoi.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAIBZwHcAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T13:53:19.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PayMentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\BaiTapLon\\MoMo API\\PayMentRequest.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\MoMo API\\PayMentRequest.cs",
+              "ToolTip": "C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\BaiTapLon\\MoMo API\\PayMentRequest.cs",
+              "RelativeToolTip": "BaiTapLon\\MoMo API\\PayMentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:34:34.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "momoInfo.cs",
+              "DocumentMoniker": "C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\BaiTapLon\\MoMo API\\momoInfo.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\MoMo API\\momoInfo.cs",
+              "ToolTip": "C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\BaiTapLon\\MoMo API\\momoInfo.cs",
+              "RelativeToolTip": "BaiTapLon\\MoMo API\\momoInfo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:24:34.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentMoMo.cshtml",
+              "DocumentMoniker": "C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\BaiTapLon\\Views\\Cart\\PaymentMoMo.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Cart\\PaymentMoMo.cshtml",
+              "ToolTip": "C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\BaiTapLon\\Views\\Cart\\PaymentMoMo.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Cart\\PaymentMoMo.cshtml",
+              "ViewState": "AgIAADcBAAAAAAAAAAAEwO8BAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T13:18:39.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\BaiTapLon\\Web.config",
+              "RelativeDocumentMoniker": "BaiTapLon\\Web.config",
+              "ToolTip": "C:\\Users\\namdx\\Desktop\\\u0111\u1ED3 \u00E1n TN\\Do_An\\BaiTapLon\\Web.config",
+              "RelativeToolTip": "BaiTapLon\\Web.config",
+              "ViewState": "AgIAAAIAAAAAAAAAAABRwA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-23T14:28:32.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
